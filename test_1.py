@@ -6,6 +6,6 @@ Created on Thu May 28 10:51:12 2020
 """
 
 for i in range(10):
-    i = i + 12
+    i = i + 1
     print (i)
     
